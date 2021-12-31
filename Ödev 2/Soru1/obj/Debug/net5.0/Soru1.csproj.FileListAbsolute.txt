@@ -1,0 +1,16 @@
+C:\Users\Yasem\source\repos\Soru1\bin\Debug\net5.0\Soru1.exe
+C:\Users\Yasem\source\repos\Soru1\bin\Debug\net5.0\Soru1.deps.json
+C:\Users\Yasem\source\repos\Soru1\bin\Debug\net5.0\Soru1.runtimeconfig.json
+C:\Users\Yasem\source\repos\Soru1\bin\Debug\net5.0\Soru1.runtimeconfig.dev.json
+C:\Users\Yasem\source\repos\Soru1\bin\Debug\net5.0\Soru1.dll
+C:\Users\Yasem\source\repos\Soru1\bin\Debug\net5.0\ref\Soru1.dll
+C:\Users\Yasem\source\repos\Soru1\bin\Debug\net5.0\Soru1.pdb
+C:\Users\Yasem\source\repos\Soru1\obj\Debug\net5.0\Soru1.csprojAssemblyReference.cache
+C:\Users\Yasem\source\repos\Soru1\obj\Debug\net5.0\Soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasem\source\repos\Soru1\obj\Debug\net5.0\Soru1.AssemblyInfoInputs.cache
+C:\Users\Yasem\source\repos\Soru1\obj\Debug\net5.0\Soru1.AssemblyInfo.cs
+C:\Users\Yasem\source\repos\Soru1\obj\Debug\net5.0\Soru1.csproj.CoreCompileInputs.cache
+C:\Users\Yasem\source\repos\Soru1\obj\Debug\net5.0\Soru1.dll
+C:\Users\Yasem\source\repos\Soru1\obj\Debug\net5.0\ref\Soru1.dll
+C:\Users\Yasem\source\repos\Soru1\obj\Debug\net5.0\Soru1.pdb
+C:\Users\Yasem\source\repos\Soru1\obj\Debug\net5.0\Soru1.genruntimeconfig.cache
