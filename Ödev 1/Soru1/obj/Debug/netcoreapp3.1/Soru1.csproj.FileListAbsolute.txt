@@ -1,0 +1,26 @@
+C:\Users\Yasem\source\repos\Soru1\bin\Debug\netcoreapp3.1\Soru1.exe
+C:\Users\Yasem\source\repos\Soru1\bin\Debug\netcoreapp3.1\Soru1.deps.json
+C:\Users\Yasem\source\repos\Soru1\bin\Debug\netcoreapp3.1\Soru1.runtimeconfig.json
+C:\Users\Yasem\source\repos\Soru1\bin\Debug\netcoreapp3.1\Soru1.runtimeconfig.dev.json
+C:\Users\Yasem\source\repos\Soru1\bin\Debug\netcoreapp3.1\Soru1.dll
+C:\Users\Yasem\source\repos\Soru1\bin\Debug\netcoreapp3.1\Soru1.pdb
+C:\Users\Yasem\source\repos\Soru1\obj\Debug\netcoreapp3.1\Soru1.csprojAssemblyReference.cache
+C:\Users\Yasem\source\repos\Soru1\obj\Debug\netcoreapp3.1\Soru1.AssemblyInfoInputs.cache
+C:\Users\Yasem\source\repos\Soru1\obj\Debug\netcoreapp3.1\Soru1.AssemblyInfo.cs
+C:\Users\Yasem\source\repos\Soru1\obj\Debug\netcoreapp3.1\Soru1.csproj.CoreCompileInputs.cache
+C:\Users\Yasem\source\repos\Soru1\obj\Debug\netcoreapp3.1\Soru1.dll
+C:\Users\Yasem\source\repos\Soru1\obj\Debug\netcoreapp3.1\Soru1.pdb
+C:\Users\Yasem\source\repos\Soru1\obj\Debug\netcoreapp3.1\Soru1.genruntimeconfig.cache
+C:\Users\Yasem\OneDrive\Masaüstü\Projelerim\B191210054 - Yasemin Muzıroğlu - 1D - Ödev1\Soru1\bin\Debug\netcoreapp3.1\Soru1.exe
+C:\Users\Yasem\OneDrive\Masaüstü\Projelerim\B191210054 - Yasemin Muzıroğlu - 1D - Ödev1\Soru1\bin\Debug\netcoreapp3.1\Soru1.deps.json
+C:\Users\Yasem\OneDrive\Masaüstü\Projelerim\B191210054 - Yasemin Muzıroğlu - 1D - Ödev1\Soru1\bin\Debug\netcoreapp3.1\Soru1.runtimeconfig.json
+C:\Users\Yasem\OneDrive\Masaüstü\Projelerim\B191210054 - Yasemin Muzıroğlu - 1D - Ödev1\Soru1\bin\Debug\netcoreapp3.1\Soru1.runtimeconfig.dev.json
+C:\Users\Yasem\OneDrive\Masaüstü\Projelerim\B191210054 - Yasemin Muzıroğlu - 1D - Ödev1\Soru1\bin\Debug\netcoreapp3.1\Soru1.dll
+C:\Users\Yasem\OneDrive\Masaüstü\Projelerim\B191210054 - Yasemin Muzıroğlu - 1D - Ödev1\Soru1\bin\Debug\netcoreapp3.1\Soru1.pdb
+C:\Users\Yasem\OneDrive\Masaüstü\Projelerim\B191210054 - Yasemin Muzıroğlu - 1D - Ödev1\Soru1\obj\Debug\netcoreapp3.1\Soru1.csprojAssemblyReference.cache
+C:\Users\Yasem\OneDrive\Masaüstü\Projelerim\B191210054 - Yasemin Muzıroğlu - 1D - Ödev1\Soru1\obj\Debug\netcoreapp3.1\Soru1.AssemblyInfoInputs.cache
+C:\Users\Yasem\OneDrive\Masaüstü\Projelerim\B191210054 - Yasemin Muzıroğlu - 1D - Ödev1\Soru1\obj\Debug\netcoreapp3.1\Soru1.AssemblyInfo.cs
+C:\Users\Yasem\OneDrive\Masaüstü\Projelerim\B191210054 - Yasemin Muzıroğlu - 1D - Ödev1\Soru1\obj\Debug\netcoreapp3.1\Soru1.csproj.CoreCompileInputs.cache
+C:\Users\Yasem\OneDrive\Masaüstü\Projelerim\B191210054 - Yasemin Muzıroğlu - 1D - Ödev1\Soru1\obj\Debug\netcoreapp3.1\Soru1.dll
+C:\Users\Yasem\OneDrive\Masaüstü\Projelerim\B191210054 - Yasemin Muzıroğlu - 1D - Ödev1\Soru1\obj\Debug\netcoreapp3.1\Soru1.pdb
+C:\Users\Yasem\OneDrive\Masaüstü\Projelerim\B191210054 - Yasemin Muzıroğlu - 1D - Ödev1\Soru1\obj\Debug\netcoreapp3.1\Soru1.genruntimeconfig.cache
